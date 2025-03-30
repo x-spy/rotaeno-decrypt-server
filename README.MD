@@ -6,7 +6,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/x-spy/rotaeno-decrypt-server
+   git clone https://github.com/x-spy/rotaeno-decrypt-server.git
    cd rotaeno-decrypt-server
 
 2. **Install Dependencies**
