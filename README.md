@@ -1,6 +1,10 @@
 # Rotaeno Decrypt Server
 
 **Rotaeno Decrypt Server** is an API server decrypting Rotaeno local storage data.
+## Announcement
+This server is only used for **Local File** decryption to serve **Bots**. 
+- **No communication with official server.**
+- **No modification of any purchase content.**
 
 ## Installation
 
